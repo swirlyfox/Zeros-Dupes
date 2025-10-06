@@ -4,7 +4,7 @@ Welcome tourists, to Chew and Swall- I mean the Fox Locomotive Works! Here you w
 
 Plan wise i have nothing. I work on what i want to whenever i feel like it, and if you like what I do and have money just burning a hole in your pocket.... well go spend it dummy
 
-In all serious though i set up a donations box for folks that think i deserve money for my work. I do not take commisions though, but i will take suggestions on what to do next!
+In all serious though i set up a donations box (link here https://www.paypal.com/donate/?hosted_button_id=C4WYD7YVEFKVC) for folks that think i deserve money for my work. I do not take commisions though, but i will take suggestions on what to do next!
 
 Q: How do I install everything? 
 A: Well, most of everything here, unless otherwise specified, is a dupe. Everything goes into your advdupe2 folder!
